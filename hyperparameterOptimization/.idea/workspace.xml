@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49a37d22-e40a-44ba-bdc9-c03e323fd79e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Yr477yjxIUKbPrFOFKd1bUrk20" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/res/configuration" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="python.debugger.dataview.autoresize" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Philipp\Documents\bachelor-project\snn-framework" />
+      <recent name="C:\Users\Philipp\Documents\bachelor-project\snn-framework\src\uci" />
+      <recent name="C:\Users\Philipp\Documents\bachelor-project\snn-framework\analytics" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Philipp\Documents\bachelor-project\snn-framework\res\configuration" />
+      <recent name="C:\Users\Philipp\Documents\bachelor-project\snn-framework\analytics\model_results" />
+      <recent name="C:\Users\Philipp\Documents\bachelor-project\snn-framework\src" />
+      <recent name="C:\Users\Philipp\Documents\bachelor-project\snn-framework\analytics" />
+      <recent name="C:\Users\Philipp\Documents\bachelor-project\snn-framework\src\uci" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.run_with_hyperparameter_list">
+    <configuration name="hyperparameter_optimization (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="snn-framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/uci" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/uci/hyperparameter_optimization.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_collectResults (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="snn-framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_collectResults.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_collectResults" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="snn-framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/uci" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Philipp\Documents\bachelor-project\snn-framework\run_collectResults.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_combine_results" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="snn-framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_combine_results.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_with_hyperparameter_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="snn-framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/uci" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/uci/run_with_hyperparameter_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run_with_hyperparameter_list" />
+        <item itemvalue="Python.hyperparameter_optimization (1)" />
+        <item itemvalue="Python.run_combine_results" />
+        <item itemvalue="Python.run_collectResults (1)" />
+        <item itemvalue="Python.run_collectResults" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49a37d22-e40a-44ba-bdc9-c03e323fd79e" name="Default Changelist" comment="" />
+      <created>1583687208881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583687208881</updated>
+      <workItem from="1583687211723" duration="3166000" />
+      <workItem from="1585315229223" duration="1902000" />
+      <workItem from="1586159250516" duration="6258000" />
+      <workItem from="1586273824267" duration="4871000" />
+      <workItem from="1586353041271" duration="5701000" />
+      <workItem from="1586364056791" duration="8617000" />
+      <workItem from="1586698106748" duration="302000" />
+      <workItem from="1586962384400" duration="1149000" />
+      <workItem from="1586966328124" duration="409000" />
+      <workItem from="1587055469050" duration="27000" />
+      <workItem from="1587108284960" duration="9342000" />
+      <workItem from="1587828166766" duration="89000" />
+      <workItem from="1587844340506" duration="1226000" />
+      <workItem from="1587928384750" duration="415000" />
+      <workItem from="1589034899686" duration="1310000" />
+      <workItem from="1589226937093" duration="1053000" />
+      <workItem from="1589284885958" duration="8000" />
+      <workItem from="1589384872998" duration="793000" />
+      <workItem from="1589407031812" duration="714000" />
+      <workItem from="1589463292944" duration="708000" />
+      <workItem from="1589492642030" duration="1220000" />
+      <workItem from="1589527944867" duration="7858000" />
+      <workItem from="1590581259558" duration="363000" />
+      <workItem from="1591963235344" duration="152000" />
+      <workItem from="1593027412915" duration="637000" />
+      <workItem from="1594996615651" duration="2324000" />
+      <workItem from="1595147412531" duration="15106000" />
+      <workItem from="1595318481504" duration="6012000" />
+      <workItem from="1595334662701" duration="1470000" />
+      <workItem from="1595584702376" duration="754000" />
+      <workItem from="1596214369537" duration="611000" />
+      <workItem from="1596228488043" duration="1798000" />
+      <workItem from="1596403176419" duration="152000" />
+      <workItem from="1596564159971" duration="48000" />
+      <workItem from="1596752462252" duration="1147000" />
+      <workItem from="1596753680029" duration="1300000" />
+      <workItem from="1596789121623" duration="1242000" />
+      <workItem from="1596895411306" duration="16735000" />
+      <workItem from="1596957229021" duration="12443000" />
+      <workItem from="1597323961138" duration="612000" />
+      <workItem from="1597756897302" duration="695000" />
+      <workItem from="1598469777629" duration="5503000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="350" key="#xdebugger.XInspectDialog" timestamp="1595148030939">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="263" y="350" key="#xdebugger.XInspectDialog/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1595148030939" />
+    <state x="93" y="93" width="2008" height="1008" key="DiffContextDialog" timestamp="1598478076007">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="93" y="93" width="2008" height="1008" key="DiffContextDialog/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1598478076007" />
+    <state width="2151" height="295" key="GridCell.Tab.0.bottom" timestamp="1598478144571">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="295" key="GridCell.Tab.0.bottom/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1598478144571" />
+    <state width="2151" height="295" key="GridCell.Tab.0.center" timestamp="1598478144571">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="295" key="GridCell.Tab.0.center/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1598478144571" />
+    <state width="2151" height="295" key="GridCell.Tab.0.left" timestamp="1598478144571">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="295" key="GridCell.Tab.0.left/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1598478144571" />
+    <state width="2151" height="295" key="GridCell.Tab.0.right" timestamp="1598478144571">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="295" key="GridCell.Tab.0.right/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1598478144571" />
+    <state width="2151" height="295" key="GridCell.Tab.1.bottom" timestamp="1598478144571">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="295" key="GridCell.Tab.1.bottom/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1598478144571" />
+    <state width="2151" height="295" key="GridCell.Tab.1.center" timestamp="1598478144571">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="295" key="GridCell.Tab.1.center/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1598478144571" />
+    <state width="2151" height="295" key="GridCell.Tab.1.left" timestamp="1598478144571">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="295" key="GridCell.Tab.1.left/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1598478144571" />
+    <state width="2151" height="295" key="GridCell.Tab.1.right" timestamp="1598478144571">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state width="2151" height="295" key="GridCell.Tab.1.right/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1598478144571" />
+    <state x="606" y="240" key="SettingsEditor" timestamp="1590581618327">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="606" y="240" key="SettingsEditor/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1590581618327" />
+    <state x="93" y="93" width="2008" height="1008" key="VCS.FileHistoryDialog" timestamp="1596961601531">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="93" y="93" width="2008" height="1008" key="VCS.FileHistoryDialog/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1596961601531" />
+    <state x="93" y="93" width="2008" height="1008" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1596962738250">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="93" y="93" width="2008" height="1008" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1596962738250" />
+    <state x="792" y="329" width="803" height="536" key="find.popup" timestamp="1598477064365">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="792" y="329" width="803" height="536" key="find.popup/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1598477064365" />
+    <state x="760" y="264" width="672" height="678" key="search.everywhere.popup" timestamp="1596983355147">
+      <screen x="0" y="0" width="2194" height="1194" />
+    </state>
+    <state x="760" y="264" width="672" height="678" key="search.everywhere.popup/0.0.2194.1194/-1920.452.1920.1040@0.0.2194.1194" timestamp="1596983355147" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/uci/run_with_hyperparameter_list.py</url>
+          <line>55</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/uci/util/util.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_collectResults.py</url>
+          <line>17</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_collectResults.py</url>
+          <line>3</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/run_combine_results.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/uci/run_with_hyperparameter_list.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/uci/util/activationSelector.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/uci/util/dropoutSelector.py</url>
+          <line>12</line>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="hp" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/snn_framework$run_collectResults.coverage" NAME="run_collectResults Coverage Results" MODIFIED="1596970021483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/uci" />
+    <SUITE FILE_PATH="coverage/snn_framework$hyperparameter_optimization__1_.coverage" NAME="hyperparameter_optimization (1) Coverage Results" MODIFIED="1598477191002" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/uci" />
+    <SUITE FILE_PATH="coverage/snn_framework$run_with_hyperparameter_list.coverage" NAME="run_with_hyperparameter_list Coverage Results" MODIFIED="1598477639110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/uci" />
+    <SUITE FILE_PATH="coverage/snn_framework$run_collectResults__1_.coverage" NAME="run_collectResults (1) Coverage Results" MODIFIED="1596978848999" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/snn_framework$run.coverage" NAME="run Coverage Results" MODIFIED="1595165113589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/uci" />
+    <SUITE FILE_PATH="coverage/snn_framework$run_combine_results.coverage" NAME="run_combine_results Coverage Results" MODIFIED="1596984124098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

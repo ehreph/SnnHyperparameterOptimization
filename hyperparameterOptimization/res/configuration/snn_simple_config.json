@@ -1,0 +1,20 @@
+{
+    "nstart": [
+        1024
+    ],
+    "nlayers": [
+        32
+    ],
+    "dropoutFn": [
+        "AlphaDropout"
+    ],
+    "dR": [
+        0.1
+    ],
+    "learningrate": [
+        0.01
+    ],
+    "layerForm": [
+        "cone"
+    ]
+}

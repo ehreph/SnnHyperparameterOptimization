@@ -1,0 +1,9 @@
+{
+  "nstart": [1024, 512, 256],
+  "nlayers": [2, 3, 4, 8, 16, 32],
+  "activationFn": ["selu"],
+  "dropoutFn": ["AlphaDropout"],
+  "dR": [0, 0.5],
+  "learningrate": [0.01, 0.1, 1],
+  "layerForm": ["rect", "conic"]
+}

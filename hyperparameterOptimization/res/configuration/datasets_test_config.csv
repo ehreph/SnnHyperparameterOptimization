@@ -1,0 +1,9 @@
+DATASET_NAME,FOLDER_NAME,FILE_NAME,TASK,PREDICTION_COLUMN
+abalone,abalone,abalone,0,0
+acute-inflammation,acute-inflammation,acute-inflammation,0,-1
+acute-nephritis,acute-nephritis,acute-nephritis,0,-1
+arrhythmia,arrhythmia,arrhythmia,0,0
+breast-cancer-wisc-prog,breast-cancer-wisc-prog,breast-cancer-wisc-prog,0,-1
+breast-tissue,breast-tissue,breast-tissue,0,0
+conn-bench-vowel-deterding,conn-bench-vowel-deterding,conn-bench-vowel-deterding,0,0
+dermatology,dermatology,dermatology,0,0plant-texture,plant-texture,plant-texture,0,0
